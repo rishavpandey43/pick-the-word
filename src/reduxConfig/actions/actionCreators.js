@@ -1,25 +1,23 @@
 // save sentence
-export function saveSenence(sentence) {
+export function saveSentence(sentenceData) {
   return {
     type: "SAVE SENTENCE",
-    sentence
-  }
+    sentenceData
+  };
 }
 
 // split the sentence
-export function splitTheSentence(sentence) {
+export function splitTheSentence() {
   return {
-    type: "SPLIT THE SENTENCE",
-    sentence
-  }
+    type: "SPLIT THE SENTENCE"
+  };
 }
 
 // jumble the word
-export function jumbleWords(wordsArray) {
+export function jumbleWords() {
   return {
     type: "JUMBLE THE WORD",
-    wordsArray
-  }
+  };
 }
 
 // check correct answer
@@ -28,5 +26,5 @@ export function checkUserAnswer(originalAns, userAns) {
     type: "CHECK USER ANSWER",
     originalAns,
     userAns
-  }
+  };
 }
