@@ -18,6 +18,7 @@ class First extends Component {
       this.props.saveSentence(this.state.inputValue);
       this.props.splitTheSentence();
       this.props.jumbleWords();
+      this.props.resetState();
     }
   }
 

@@ -17,3 +17,11 @@
   cursor: pointer;
   font-size: 1.4em;
 }
+
+.result-box {
+  margin: 10px;
+  font-size: 1.5em;
+  padding: 3px 10px;
+  border-radius: 5px;
+  color: #fff;
+}

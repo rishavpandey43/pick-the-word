@@ -16,15 +16,20 @@ export function splitTheSentence() {
 // jumble the word
 export function jumbleWords() {
   return {
-    type: "JUMBLE THE WORD",
+    type: "JUMBLE THE WORD"
   };
 }
 
 // check correct answer
-export function checkUserAnswer(originalAns, userAns) {
+export function saveUserAnswer(userAns) {
   return {
-    type: "CHECK USER ANSWER",
-    originalAns,
+    type: "SAVE USER ANSWER",
     userAns
+  };
+}
+
+export function resetState() {
+  return {
+    type: "RESET STATE"
   };
 }
