@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pick-the-word/static/css/main.5b0b2959.chunk.css",
+    "main.js": "/pick-the-word/static/js/main.7863f123.chunk.js",
+    "main.js.map": "/pick-the-word/static/js/main.7863f123.chunk.js.map",
+    "runtime~main.js": "/pick-the-word/static/js/runtime~main.aa0c0ef3.js",
+    "runtime~main.js.map": "/pick-the-word/static/js/runtime~main.aa0c0ef3.js.map",
+    "static/css/2.266e55a5.chunk.css": "/pick-the-word/static/css/2.266e55a5.chunk.css",
+    "static/js/2.4fc2ae13.chunk.js": "/pick-the-word/static/js/2.4fc2ae13.chunk.js",
+    "static/js/2.4fc2ae13.chunk.js.map": "/pick-the-word/static/js/2.4fc2ae13.chunk.js.map",
+    "index.html": "/pick-the-word/index.html",
+    "precache-manifest.c2f36ebdb6f99b9250a339a968419f7e.js": "/pick-the-word/precache-manifest.c2f36ebdb6f99b9250a339a968419f7e.js",
+    "service-worker.js": "/pick-the-word/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/pick-the-word/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5b0b2959.chunk.css.map": "/pick-the-word/static/css/main.5b0b2959.chunk.css.map"
+  }
+}
